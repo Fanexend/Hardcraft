@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "hardcraft:diamond_from_nuggets"
+    },
+    "pattern": [
+      "NNN",
+      "NNN",
+      "NNN"
+    ],
+    "key": {
+      "N": {
+        "item": "hardcraft:diamond_nugget"
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond",
+      "count": 1
+    }
+  }
+}

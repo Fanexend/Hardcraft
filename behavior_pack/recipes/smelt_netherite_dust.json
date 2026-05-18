@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "hardcraft:netherite_dust_smelting"
+    },
+    "input": "hardcraft:netherite_dust",
+    "output": "hardcraft:netherite_nugget",
+    "tags": ["furnace", "smoker", "blast_furnace"]
+  }
+}

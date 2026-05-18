@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "hardcraft:diamond_dust_smelting"
+    },
+    "input": "hardcraft:diamond_dust",
+    "output": "hardcraft:diamond_nugget",
+    "tags": ["furnace", "smoker", "blast_furnace"]
+  }
+}

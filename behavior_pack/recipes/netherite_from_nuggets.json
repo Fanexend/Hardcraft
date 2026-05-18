@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "hardcraft:netherite_from_nuggets"
+    },
+    "pattern": [
+      "NNN",
+      "NNN",
+      "NNN"
+    ],
+    "key": {
+      "N": {
+        "item": "hardcraft:netherite_nugget"
+      }
+    },
+    "result": {
+      "item": "minecraft:netherite_ingot",
+      "count": 1
+    }
+  }
+}

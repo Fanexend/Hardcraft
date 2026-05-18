@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "hardcraft:lapis_from_nuggets"
+    },
+    "pattern": [
+      "NNN",
+      "NNN",
+      "NNN"
+    ],
+    "key": {
+      "N": {
+        "item": "hardcraft:lasurite_nugget"
+      }
+    },
+    "result": {
+      "item": "minecraft:lapis_lazuli",
+      "count": 1
+    }
+  }
+}

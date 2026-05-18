@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "hardcraft:quartz_dust_smelting"
+    },
+    "input": "hardcraft:quartz_dust",
+    "output": "hardcraft:quartz_nugget",
+    "tags": ["furnace", "smoker", "blast_furnace"]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "hardcraft:quartz_from_nuggets"
+    },
+    "pattern": [
+      "NNN",
+      "NNN",
+      "NNN"
+    ],
+    "key": {
+      "N": {
+        "item": "hardcraft:quartz_nugget"
+      }
+    },
+    "result": {
+      "item": "minecraft:quartz",
+      "count": 1
+    }
+  }
+}

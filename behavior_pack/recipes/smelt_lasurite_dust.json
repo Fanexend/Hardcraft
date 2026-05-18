@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "hardcraft:lasurite_dust_smelting"
+    },
+    "input": "hardcraft:lasurite_dust",
+    "output": "hardcraft:lasurite_nugget",
+    "tags": ["furnace", "smoker", "blast_furnace"]
+  }
+}
