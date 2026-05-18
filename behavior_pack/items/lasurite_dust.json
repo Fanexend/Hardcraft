@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hardcraft:lasurite_dust",
+      "category": "materials"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "lasurite_dust"
+      },
+      "minecraft:stack_size": 64,
+      "minecraft:display_name": {
+        "value": "Пыль лазурита"
+      }
+    }
+  }
+}

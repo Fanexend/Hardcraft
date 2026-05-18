@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hardcraft:quartz_dust",
+      "category": "materials"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "quartz_dust"
+      },
+      "minecraft:stack_size": 64,
+      "minecraft:display_name": {
+        "value": "Пыль кварца"
+      }
+    }
+  }
