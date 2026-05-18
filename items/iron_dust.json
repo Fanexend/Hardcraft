@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hardcraft:iron_dust",
+      "category": "materials"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "iron_dust"
+      },
+      "minecraft:stack_size": 64,
+      "minecraft:display_name": {
+        "value": "Железная пыль"
+      }
+    }
+  }
+}
