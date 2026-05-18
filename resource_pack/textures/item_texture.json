@@ -1,0 +1,25 @@
+{
+  "texture_data": {
+    "iron_dust": {
+      "textures": "textures/items/iron_dust"
+    },
+    "golden_dust": {
+      "textures": "textures/items/golden_dust"
+    },
+    "diamond_dust": {
+      "textures": "textures/items/diamond_dust"
+    },
+    "lasurite_dust": {
+      "textures": "textures/items/lasurite_dust"
+    },
+    "emerald_dust": {
+      "textures": "textures/items/emerald_dust"
+    },
+    "netherite_dust": {
+      "textures": "textures/items/netherite_dust"
+    },
+    "quartz_dust": {
+      "textures": "textures/items/quartz_dust"
+    }
+  }
+}
